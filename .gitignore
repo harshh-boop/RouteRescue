@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Environment variables
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+
+# ML generated files
+*.pkl
+*.joblib
+*.h5
